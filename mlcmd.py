@@ -57,6 +57,6 @@ def run():
     elif answers['action'] == actions.TRAIN_MODEL:
       model = train_model(data)
     elif answers['action'] == actions.PREDICT:
-      model = predict(model)
+      predict(model)
     elif answers['action'] == actions.EXIT:
       return
