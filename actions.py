@@ -1,0 +1,6 @@
+LOAD_DATA = 'Load data'
+DISPLAY_DATA = 'Display data'
+PREPROCESS_DATA = 'Preprocess data'
+TRAIN_MODEL = 'Train a model'
+PREDICT = 'Do a prediction'
+EXIT = 'Exit'
